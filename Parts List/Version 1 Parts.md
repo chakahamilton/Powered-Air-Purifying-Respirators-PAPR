@@ -1,5 +1,7 @@
 **Version 1 Parts List**
-Base Unit
+
+Main Unit
+
 1. [1x Nispira in-line filter for CPAP](https://www.amazon.com/dp/B07FPSZCVB/)
 2. [10x CPAP Hose](https://www.amazon.com/gp/product/B01MU5XLUC)
 3. [1x Sterilite 6qt Storage box](https://www.amazon.com/dp/B00LFW880Q)
