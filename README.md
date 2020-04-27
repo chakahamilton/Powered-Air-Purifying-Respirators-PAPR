@@ -10,3 +10,6 @@ treatment.Always seek the advice of your physician or other qualified health pro
 
 ### Inspiration: 
 I was inspired by this [project](https://github.com/jcl5m1/ventilator/wiki/Build-a-Low-Cost-PAPR)  by [Johnny Lee](https://github.com/jcl5m1) though I decided to go in a different design direction. His prokect project provided me with a wealth of knowledge. 
+
+
+#### THIS IS STILL A WORK IN PROGRESS SUBJECT TO FREQUEST CHANGES.
