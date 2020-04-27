@@ -2,7 +2,7 @@
 A Build It Yourself Powered Air Purifying Respirator made from readily available and relatively low cost parts.
 
 ### Purpose
-From the onset of the COvid19 Pandemic, I wanted to focus specifically on PPE for  both medical staff and Caregivers. As the weeks went on and Sheltering in place orders where issued, it made the most sense. Providing PPE for medical staff and other first responders is a resources intensive, and very regulated. However caegivers seemed to be overlooked. By caregiver I mean family members who are on the front lines at home taking care of other family members who may be immune compromised and or elder. SO this is for them and anyone else who may be in need of a higher end  low cost PPE. 
+From the onset of the COvid19 Pandemic, I wanted to focus specifically on PPE for  both medical staff and Caregivers. As the weeks went on and Sheltering in place orders where issued, it made the most sense. Providing PPE for medical staff and other first responders is a resources intensive, and very regulated. However caegivers seemed to be overlooked. By caregiver I mean family members who are on the front lines at home taking care of other family members who may be immune compromised and or elder. So this is for them and anyone else who may be in need of a higher end  low cost PPE. This isnt just A PAPR system it is a full body protective unit as well.
 
 ## DISCLAIMER: 
 <B>The contents of the Repository, such as text, graphics, images, and other material contained in this Repository (“Content”) are for 
