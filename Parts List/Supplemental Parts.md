@@ -1,2 +1,2 @@
-**These are parts I had laying around my lab**
+## These are parts I had laying around my lab ##
 
