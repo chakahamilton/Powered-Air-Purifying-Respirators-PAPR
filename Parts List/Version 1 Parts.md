@@ -14,10 +14,7 @@ Main Unit
 10. [IZTOSS 12V-24V Universal Digital Voltmeter Measure Voltage 7-30V with Low Voltage Alarm ](https://www.amazon.com/gp/product/B01MATE05S)
 11. [Sandblasting Hood with large viewing screen for anti dusk protection](https://www.amazon.com/gp/product/B01GP3684C)
 
-**NOT PURCHASED**
-
-This has not been tested with my current setup but is of interest to me to be used to power the whole thing.
 
 
-[TalentCell 12V Lithium ion Battery PACK with DC 12V and 5V USB Output](https://www.amazon.com/dp/B07H8F5HYJ)
+
 
