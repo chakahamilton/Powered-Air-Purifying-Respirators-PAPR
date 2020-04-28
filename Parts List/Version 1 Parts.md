@@ -18,4 +18,6 @@ Main Unit
 
 This has not been tested with my current setup but is of interest to me to be used to power the whole thing.
 
+- [ ] Tested
 [TalentCell 12V Lithium ion Battery PACK with DC 12V and 5V USB Output](https://www.amazon.com/dp/B07H8F5HYJ)
+
